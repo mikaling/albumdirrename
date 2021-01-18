@@ -4,7 +4,7 @@ A Python script that renames a music album folder based on the metadata of the m
 
 ## Installation
 Download or clone this repo  
-> `git clone https://github.com/mikaling/albumdirrename`
+> `git clone https://github.com/mikaling/albumdirrename.git`
 
 Install the required dependencies  
 > `pip install -r requirements.txt`
