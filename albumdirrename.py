@@ -4,7 +4,7 @@
 import os, mutagen
 from pathlib import Path
 
-entries = Path('playground/')
+entries = Path('./')
 
 for entry in entries.iterdir():
     if entry.is_dir():
