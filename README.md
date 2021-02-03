@@ -35,3 +35,6 @@ Folders will be renamed to the format `[Year] - [Artist] - [Album Title]`
 
 ## Dependencies
 mutagen >= 1.45.1
+
+## Planned Features
+* User can set folder format using regular expressions
